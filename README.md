@@ -1,1 +1,2 @@
 # Gaming-Website
+It is a gaming website for a gaming cafe, One can book a slot for playing different games here . Apart from booking slots one can have a overview of the place and get to know different games one can play at the cafe .
